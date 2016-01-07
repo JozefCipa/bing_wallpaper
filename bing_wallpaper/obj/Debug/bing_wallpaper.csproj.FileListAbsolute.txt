@@ -1,0 +1,18 @@
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.exe.config
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.exe
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.pdb
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.Form1.resources
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.Properties.Resources.resources
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.csproj.GenerateResource.Cache
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.exe
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.pdb
+C:\Users\Jozef Cipa\Desktop\joci\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.csprojResolveAssemblyReference.cache
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.exe.config
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.exe
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.pdb
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.csprojResolveAssemblyReference.cache
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.Form1.resources
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.csproj.GenerateResource.Cache
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\obj\Debug\bing_wallpaper.Properties.Resources.resources
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.exe
+C:\Users\Jozef Cipa\My Documents\data\C#\bing_wallpaper\bing_wallpaper\bin\Debug\bing_wallpaper.pdb
