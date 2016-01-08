@@ -16,8 +16,6 @@ namespace bing_wallpaper
         private readonly UInt32 SPI_SETDESKWALLPAPER = 0x14;
         private readonly UInt32 SPIF_UPDATEINIFILE = 0x01;
         private readonly UInt32 SPIF_SENDWININICHANGE = 0x02;
-        /* static ak by nefungovalo */
-
 
         public void SetWallpaper(string ImagePath)
         {
