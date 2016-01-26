@@ -31,15 +31,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.getWallpaper = new System.Windows.Forms.Button();
             this.getAutomatic = new System.Windows.Forms.CheckBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // getWallpaper
             // 
-            this.getWallpaper.Location = new System.Drawing.Point(202, 12);
+            this.getWallpaper.Location = new System.Drawing.Point(114, 12);
             this.getWallpaper.Name = "getWallpaper";
-            this.getWallpaper.Size = new System.Drawing.Size(228, 40);
+            this.getWallpaper.Size = new System.Drawing.Size(208, 40);
             this.getWallpaper.TabIndex = 0;
             this.getWallpaper.Text = "Get Wallpaper";
             this.getWallpaper.UseVisualStyleBackColor = true;
@@ -48,22 +47,13 @@
             // getAutomatic
             // 
             this.getAutomatic.AutoSize = true;
-            this.getAutomatic.Location = new System.Drawing.Point(100, 25);
+            this.getAutomatic.Location = new System.Drawing.Point(12, 25);
             this.getAutomatic.Name = "getAutomatic";
             this.getAutomatic.Size = new System.Drawing.Size(96, 17);
             this.getAutomatic.TabIndex = 1;
             this.getAutomatic.Text = "Run on startup";
             this.getAutomatic.UseVisualStyleBackColor = true;
             this.getAutomatic.CheckedChanged += new System.EventHandler(this.getAutomatic_CheckedChanged);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(2, 46);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(59, 13);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "©2016 joci";
             // 
             // label2
             // 
@@ -79,9 +69,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(442, 61);
+            this.ClientSize = new System.Drawing.Size(334, 61);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.getAutomatic);
             this.Controls.Add(this.getWallpaper);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
@@ -99,7 +88,6 @@
 
         private System.Windows.Forms.Button getWallpaper;
         private System.Windows.Forms.CheckBox getAutomatic;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
     }
 }

@@ -39,6 +39,8 @@ namespace bing_wallpaper
             //set Checkbox state
             getAutomatic.Checked = StartOnBoot.IsOnStartup();
 
+            Console.WriteLine(LaunchedOnStartup);
+
             if(LaunchedOnStartup)
             {
                 getWallpaper_Click(null, null);
@@ -52,7 +54,7 @@ namespace bing_wallpaper
 
         private void getWallpaper_Click(object sender, EventArgs e)
         {
-            image.Save(PathToImagesFolder + @"\Bing Wallpapers\", BingImage.GetImageURL("http://www.bing.com/az/hprichbg/rb/"));
+            image.Save(PathToImagesFolder + @"\Bing Wallpapers\", BingImage.GetImageURL("https://www.bing.com/az/hprichbg/rb/"));
 
             Wallpaper.SetWallpaper(image.GetSavedImage());
         }
